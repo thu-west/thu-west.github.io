@@ -1,7 +1,5 @@
 
-# HedmaPortal
 
-This is a portal for health and medical data management and analysis.We survey and summary the related knowledge bases, knowledge graphs and papers about health data analysis.  
 ## Contents  
 - [Researchers](#researchers)
 - [Knowledge Bases](#knowledge-bases)  
