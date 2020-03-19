@@ -1,6 +1,4 @@
----
-layout: default
----
+# HedmaPotal
 
 ## Contents  
 - [Researchers](#researchers)
