@@ -1,4 +1,6 @@
-
+---
+layout: default
+---
 
 ## Contents  
 - [Researchers](#researchers)
