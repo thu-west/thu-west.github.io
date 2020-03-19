@@ -1,5 +1,6 @@
-# HedmaPotal
-
+---
+layout: default
+---
 ## Contents  
 - [Researchers](#researchers)
 - [Knowledge Bases](#knowledge-bases)  
