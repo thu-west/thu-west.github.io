@@ -26,6 +26,7 @@
   - [Christopher Murray](https://scholar.google.com/citations?hl=en&user=iTsZVuoAAAAJ)
   - [Khurram Nasir](https://scholar.google.com/citations?hl=en&user=G7VThNoAAAAJ)
   - [Herbert Duber](https://scholar.google.com/citations?hl=en&user=h4bIhD4AAAAJ)
+  - [Diego González-Medina](https://scholar.google.com/citations?hl=zh-CN&user=-arIPHcAAAAJ)
 ### Knowledge Bases   
 - **[Linked Life Data](https://www.ontotext.com/knowledgehub/demoservices/linked-life-data/)** - Linked Life Data is a data-as-a-service platform that provides access to 25 public biomedical databases through a single access point.
 - **[Unified Medical Language System (UMLS)](https://www.nlm.nih.gov/research/umls/index.html)** - A set of files and software that brings together many health and biomedical vocabularies and standards
@@ -39,7 +40,7 @@
 
 - **[Knowledge Graph of Breast Cancer (KGBC)](http://wasp.cs.vu.nl/BreastCancerKG/)**  
 
-- **[Knowledge graph of New Coronavirus](http://openkg.cn/group/coronavirus)**  
+- **[Knowledge Graph of New Coronavirus](http://openkg.cn/group/coronavirus)**  
 
 - **[QA System on Medical Knowledge Graph](https://github.com/liuhuanyong/QASystemOnMedicalKG)**  
 
