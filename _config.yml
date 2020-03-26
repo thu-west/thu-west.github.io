@@ -1,5 +1,5 @@
 title: HedmaPotal
-description: This is a portal for health and medical data management and analysis.
+description: A portal for Health Data Management and Analysis.
 show_downloads: false
-google_analytics:
+google_analytics: yes
 theme: jekyll-theme-cayman
