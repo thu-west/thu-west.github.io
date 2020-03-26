@@ -26,7 +26,8 @@
   - [Christopher Murray](https://scholar.google.com/citations?hl=en&user=iTsZVuoAAAAJ)
   - [Khurram Nasir](https://scholar.google.com/citations?hl=en&user=G7VThNoAAAAJ)
   - [Herbert Duber](https://scholar.google.com/citations?hl=en&user=h4bIhD4AAAAJ)
-  - [Diego González-Medina](https://scholar.google.com/citations?hl=zh-CN&user=-arIPHcAAAAJ)
+  - [Diego González-Medina](https://scholar.google.com/citations?hl=zh-CN&user=-arIPHcAAAAJ)  
+  
 ### Knowledge Bases   
 - **[Linked Life Data](https://www.ontotext.com/knowledgehub/demoservices/linked-life-data/)** - Linked Life Data is a data-as-a-service platform that provides access to 25 public biomedical databases through a single access point.
 - **[Unified Medical Language System (UMLS)](https://www.nlm.nih.gov/research/umls/index.html)** - A set of files and software that brings together many health and biomedical vocabularies and standards
@@ -70,14 +71,16 @@
   * [OpenMRS](http://openmrs.org/) - Enterprise Electronic Medical Record System platform.
   * [OSCAR EMR](https://bitbucket.org/oscaremr/oscar) - OSCAR McMaster Project
   * [Ripple](http://rippleosi.org/) -  NHS funded community led initiative towards an integrated Digital Care Record Platform.
-  * [VistA](https://www.osehra.org/content/osehra-vista) - Health Information Technology System.
+  * [VistA](https://www.osehra.org/content/osehra-vista) - Health Information Technology System.  
+  
 ### Health Data for Machine Learning
   * [EchoNet-Dynamic](https://echonet.github.io/dynamic/index.html) - A Large New Cardiac Motion Video Data Resource
   * [The National Library of Medicine presents MedPix®](https://medpix.nlm.nih.gov/home) - Database of 53,000 medical images from 13,000 patients with annotations.
   * [CT Colongraphy for Colon Cancer](https://wiki.cancerimagingarchive.net/display/Public/CT+COLONOGRAPHY#dc149b9170f54aa29e88f1119e25ba3e) - CT scan for diagnosing of colon cancer.
   * [Digital Retinal Images for Vessel Extraction ]( http://www.isi.uu.nl/Research/Databases/DRIVE/download.php) - The DRIVE database is for comparative studies on segmentation of blood vessels in retinal images.
   * [Isic Archive - Melanoma]( https://www.isic-archive.com) - This archive contains 23k images of classified skin lesions. It contains both malignant and benign examples.
-  * [TCIA Collections]( http://www.cancerimagingarchive.net/) - Cancer imaging data sets across various cancer types
+  * [TCIA Collections]( http://www.cancerimagingarchive.net/) - Cancer imaging data sets across various cancer types  
+  
 ### Libraries
  * [Archie](https://github.com/openehr/archie) - OpenEHR Library written in Java
   * [Asymmetrik FHIR API Server](https://github.com/Asymmetrik/node-fhir-server-core) - A Secure Rest implementation for the HL7 FHIR Specification
@@ -99,7 +102,8 @@
   * [Python HL7](https://github.com/johnpaulett/python-hl7) - Simple library for parsing messages of HL7 version 2.x into Python objects.
   * [Python SMART on FHIR client](https://github.com/smart-on-fhir/client-py) - Flexible Python client for FHIR servers supporting the SMART on FHIR protocol
   * [Ruby FHIR](https://github.com/fhir-crucible/fhir_client) - FHIR client implementation in Ruby.
-  * [Ruby HL7](https://github.com/segfault/ruby-hl7) - Ruby HL7 library.
+  * [Ruby HL7](https://github.com/segfault/ruby-hl7) - Ruby HL7 library.  
+  
 ### Papers
 - [Ashburner, Michael, et al. "Gene ontology: tool for the unification of biology." Nature genetics 25.1 (2000): 25-29.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3037419/)  
 
