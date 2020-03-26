@@ -105,23 +105,16 @@
   * [Ruby HL7](https://github.com/segfault/ruby-hl7) - Ruby HL7 library.  
   
 ### Papers
-- [Ashburner, Michael, et al. "Gene ontology: tool for the unification of biology." Nature genetics 25.1 (2000): 25-29.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3037419/)  
+- Ashburner, Michael, et al. [Gene ontology: tool for the unification of biology.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3037419/)Nature genetics 25.1 (2000): 25-29.
 
-- [Belleau, François, et al. "Bio2RDF: towards a mashup to build bioinformatics knowledge systems." Journal of biomedical informatics 41.5 (2008): 706-716.](https://www.sciencedirect.com/science/article/pii/S1532046408000415)  
+- Belleau, François, et al. [Bio2RDF: towards a mashup to build bioinformatics knowledge systems.](https://www.sciencedirect.com/science/article/pii/S1532046408000415)Journal of biomedical informatics 41.5 (2008): 706-716.
 
-- [Ruttenberg, Alan, et al. "Life sciences on the Semantic Web: the Neurocommons and beyond." Briefings in bioinformatics 10.2 (2009): 193-204.](https://academic.oup.com/bib/article/10/2/193/184336)
-
-- [Yu T, Li J, Yu Q, et al. Knowledge graph for TCM health preservation: design, construction, and applications[J]. Artificial intelligence in medicine, 2017, 77: 48-52.](https://www.sciencedirect.com/science/article/pii/S0933365717301355)
-
-- [Shi L, Li S, Yang X, et al. Semantic health knowledge graph: Semantic integration of heterogeneous medical knowledge and services[J]. BioMed research international, 2017, 2017.](http://downloads.hindawi.com/journals/bmri/2017/2858423.pdf)
-
-- [Rotmensch M, Halpern Y, Tlimat A, et al. Learning a health knowledge graph from electronic medical records[J]. Scientific reports, 2017, 7(1): 1-11.](https://www.nature.com/articles/s41598-017-05778-z)
-
-- [Huang, Da Wei, Brad T. Sherman, and Richard A. Lempicki. "Bioinformatics enrichment tools: paths toward the comprehensive functional analysis of large gene lists." Nucleic acids research 37.1 (2009): 1-13.](https://academic.oup.com/nar/article/37/1/1/1026684)
-
-- [Piñero, Janet, et al. "DisGeNET: a discovery platform for the dynamical exploration of human diseases and their genes." Database 2015 (2015).](https://academic.oup.com/database/article/doi/10.1093/database/bav028/2433160)
-
-
+- Ruttenberg, Alan, et al. [Life sciences on the Semantic Web: the Neurocommons and beyond.](https://academic.oup.com/bib/article/10/2/193/184336)Briefings in bioinformatics 10.2 (2009): 193-204.
+- Yu T, Li J, Yu Q, et al. [Knowledge graph for TCM health preservation: design, construction, and applications[J].](https://www.sciencedirect.com/science/article/pii/S0933365717301355)Artificial intelligence in medicine, 2017, 77: 48-52.
+- Shi L, Li S, Yang X, et al. [Semantic health knowledge graph: Semantic integration of heterogeneous medical knowledge and services[J].](http://downloads.hindawi.com/journals/bmri/2017/2858423.pdf)BioMed research international, 2017, 2017.
+- Rotmensch M, Halpern Y, Tlimat A, et al. [Learning a health knowledge graph from electronic medical records[J].](https://www.nature.com/articles/s41598-017-05778-z)Scientific reports, 2017, 7(1): 1-11.
+- Huang, Da Wei, Brad T. Sherman, and Richard A. Lempicki. [Bioinformatics enrichment tools: paths toward the comprehensive functional analysis of large gene lists.](https://academic.oup.com/nar/article/37/1/1/1026684)Nucleic acids research 37.1 (2009): 1-13.
+- Piñero, Janet, et al. [DisGeNET: a discovery platform for the dynamical exploration of human diseases and their genes.](https://academic.oup.com/database/article/doi/10.1093/database/bav028/2433160)Database 2015 (2015).
 
 
 
