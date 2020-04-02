@@ -1,11 +1,13 @@
 # HedmaPortal  
 
-## Hot Spot
+## What's New
 - [Health Knowledge Graph for Novel Coronavirus Pneumonia (Covid-19)](http://www.edukg.cn/fy)
 - [New Crown Health Knowledge Graph](http://openkg.cn/dataset/covid-19-health)
 
 ## Contents  
 - [Researchers](#researchers)
+  - [Organizations](#organizations)
+  - [Conferences](#conferences)
 - [Toolkit](#toolkit)  
   - [Health Data Management](#health-data-management)  
   - [Health Data Analysis](#health-data-analysis)
@@ -15,6 +17,7 @@
   - [Knowledge Bases](#knowledge-bases)
 
 ### Researchers
+#### Organizations
   - [WHO](https://www.who.int)
   - [Ontotext](https://www.ontotext.com/)
   - [NLM](https://www.nlm.nih.gov/about/org.html)
@@ -23,6 +26,15 @@
   - [NIH](https://www.nih.gov/)
   - [Mayoclinic](https://www.mayoclinic.org/)
   - [MD Anderson Cancer Center](https://www.mdanderson.org/)
+#### Conferences
+  - [BIBM](https://ieeebibm.org/BIBM2020/)
+  - [MICCAI](http://www.miccai.org/)
+  - [IPMI](http://ipmi2021.org/)
+  - [ISBI](http://2020.biomedicalimaging.org/)
+  - [IEEE Transactions on Medical Imaging](https://www.embs.org/tmi/)
+  - [ACC](https://www.acc.org/search#sort=relevancy)
+  - [AHA](https://www.heart.org/)
+  - [ESC](https://www.escardio.org/)
 
 ### Toolkit  
 #### Health Data Management  
