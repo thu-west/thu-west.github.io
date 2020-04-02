@@ -30,7 +30,7 @@
   - [MD Anderson Cancer Center](https://www.mdanderson.org/)  
   
 #### Conferences
-  - [BIBM](https://ieeebibm.org/BIBM2020/)
+  - [IEEE BIBM](https://ieeebibm.org/BIBM2020/)
   - [MICCAI](http://www.miccai.org/)
   - [IPMI](http://ipmi2021.org/)
   - [ISBI](http://2020.biomedicalimaging.org/)
