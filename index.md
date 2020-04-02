@@ -31,7 +31,7 @@
   - [MICCAI](http://www.miccai.org/)
   - [IPMI](http://ipmi2021.org/)
   - [ISBI](http://2020.biomedicalimaging.org/)
-  - [IEEE Transactions on Medical Imaging](https://www.embs.org/tmi/)
+  - [IEEE TMI](https://www.embs.org/tmi/)
   - [ACC](https://www.acc.org/search#sort=relevancy)
   - [AHA](https://www.heart.org/)
   - [ESC](https://www.escardio.org/)
