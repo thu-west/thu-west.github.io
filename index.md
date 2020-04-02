@@ -1,14 +1,14 @@
-# HedmaPortal
+# HedmaPortal  
+
 ## Contents  
 - [Researchers](#researchers)
-- [Knowledge Bases](#knowledge-bases)  
+- [Data and Knowledge Bases](#data-and-knowledge-bases)
 - [Knowledge Graphs](#knowledge-graphs)
-- [Health Data Management](#health-data-management)
-- [Health Data for Machine Learning](#health-data-for-machine-learning)
-- [Libraries](#libraries)
-- [Papers](#papers)
+- [Applications](#applications)
+- [Libraries](#libraries)  
 
 ### Researchers
+#### Scholars
 - AI For HealthCare
   - [Jimeng Sun](https://scholar.google.com/citations?user=9jmmp5sAAAAJ&hl=en)
   - [A. Aldo Faisal](https://scholar.google.com/citations?hl=en&user=WjHjbrwAAAAJ)
@@ -22,30 +22,44 @@
   - [Azeem Majeed](https://scholar.google.com/citations?hl=en&user=ST8BfTgAAAAJ)
   - [Deborah L. McGuinness](https://scholar.google.com/citations?hl=en&user=PLJ0L4QAAAAJ)
   - [William Dalton](https://scholar.google.com/citations?hl=en&user=zoouc7QAAAAJ)
+  
 - Health Systems
   - [Christopher Murray](https://scholar.google.com/citations?hl=en&user=iTsZVuoAAAAJ)
   - [Khurram Nasir](https://scholar.google.com/citations?hl=en&user=G7VThNoAAAAJ)
-  - [Herbert Duber](https://scholar.google.com/citations?hl=en&user=h4bIhD4AAAAJ)
-  - [Diego González-Medina](https://scholar.google.com/citations?hl=zh-CN&user=-arIPHcAAAAJ)  
+  - [Herbert Duber](https://scholar.google.com/citations?hl=en&user=h4bIhD4AAAAJ)  
   
-### Knowledge Bases   
+#### Organizations
+  - [Ontotext](https://www.ontotext.com/)
+  - [NLM](https://www.nlm.nih.gov/about/org.html)
+  - [OpenEHR](https://www.openehr.org/)
+  - [Dicom](https://dicom.offis.de/index.php.en)
+  - [NIH](https://www.nih.gov/)
+  - [Mayoclinic](https://www.mayoclinic.org/)
+  - [MD Anderson Cancer Center](https://www.mdanderson.org/)
+
+### Data and Knowledge Bases
 - **[Linked Life Data](https://www.ontotext.com/knowledgehub/demoservices/linked-life-data/)** - Linked Life Data is a data-as-a-service platform that provides access to 25 public biomedical databases through a single access point.
 - **[Unified Medical Language System (UMLS)](https://www.nlm.nih.gov/research/umls/index.html)** - A set of files and software that brings together many health and biomedical vocabularies and standards
 - **[Gene Ontology](http://geneontology.org/)** - The Gene Ontology (GO) knowledgebase is the world’s largest source of information on the functions of genes. 
 - **[Health information technology (Health IT)](https://www.healthit.gov/)** - Health IT includes the use of electronic health records (EHRs) instead of paper medical records.
 - **[National Center for Biotechnology Information(NCBI)](https://www.ncbi.nlm.nih.gov/)** - NCBI creates a variety of educational products including courses, workshops, webinars, training materials and documentation.
+- **[EchoNet-Dynamic](https://echonet.github.io/dynamic/index.html)** - A Large New Cardiac Motion Video Data Resource
+- **[The National Library of Medicine presents MedPix®](https://medpix.nlm.nih.gov/home)** - Database of 53,000 medical images from 13,000 patients with annotations.
+- **[CT Colongraphy for Colon Cancer](https://wiki.cancerimagingarchive.net/display/Public/CT+COLONOGRAPHY#dc149b9170f54aa29e88f1119e25ba3e)** - CT scan for diagnosing of colon cancer.
+- **[Digital Retinal Images for Vessel Extraction ]( http://www.isi.uu.nl/Research/Databases/DRIVE/download.php)** - The DRIVE database is for comparative studies on segmentation of blood vessels in retinal images.
+- **[Isic Archive - Melanoma]( https://www.isic-archive.com)** - This archive contains 23k images of classified skin lesions. It contains both malignant and benign examples.
+- **[TCIA Collections]( http://www.cancerimagingarchive.net/)** - Cancer imaging data sets across various cancer types  
 
-
-### Knowledge Graphs  
+### Knowledge Graphs
 - **[Knowledge Graph for Traditional Chinese Medicine](http://www.tcmkb.cn/kg/)**  
 
 - **[Knowledge Graph of Breast Cancer (KGBC)](http://wasp.cs.vu.nl/BreastCancerKG/)**  
 
-- **[Knowledge Graph of New Coronavirus](http://openkg.cn/group/coronavirus)**  
+- **[Knowledge graph of New Coronavirus](http://openkg.cn/group/coronavirus)**  
 
 - **[QA System on Medical Knowledge Graph](https://github.com/liuhuanyong/QASystemOnMedicalKG)**  
 
-### Health Data Management
+### Applications
  * [Bahmni](http://www.bahmni.org/) - Hospital system.
   * [Cottage Med](http://www.cottagemed.org/cottage-med) - Electronic Medical Record software designed by physicians.
   * [EHRServer](https://github.com/ppazos/cabolabs-ehrserver) - CaboLabs EHRServer
@@ -71,16 +85,9 @@
   * [OpenMRS](http://openmrs.org/) - Enterprise Electronic Medical Record System platform.
   * [OSCAR EMR](https://bitbucket.org/oscaremr/oscar) - OSCAR McMaster Project
   * [Ripple](http://rippleosi.org/) -  NHS funded community led initiative towards an integrated Digital Care Record Platform.
-  * [VistA](https://www.osehra.org/content/osehra-vista) - Health Information Technology System.  
-  
-### Health Data for Machine Learning
-  * [EchoNet-Dynamic](https://echonet.github.io/dynamic/index.html) - A Large New Cardiac Motion Video Data Resource
-  * [The National Library of Medicine presents MedPix®](https://medpix.nlm.nih.gov/home) - Database of 53,000 medical images from 13,000 patients with annotations.
-  * [CT Colongraphy for Colon Cancer](https://wiki.cancerimagingarchive.net/display/Public/CT+COLONOGRAPHY#dc149b9170f54aa29e88f1119e25ba3e) - CT scan for diagnosing of colon cancer.
-  * [Digital Retinal Images for Vessel Extraction ]( http://www.isi.uu.nl/Research/Databases/DRIVE/download.php) - The DRIVE database is for comparative studies on segmentation of blood vessels in retinal images.
-  * [Isic Archive - Melanoma]( https://www.isic-archive.com) - This archive contains 23k images of classified skin lesions. It contains both malignant and benign examples.
-  * [TCIA Collections]( http://www.cancerimagingarchive.net/) - Cancer imaging data sets across various cancer types  
-  
+  * [VistA](https://www.osehra.org/content/osehra-vista) - Health Information Technology System.
+
+ 
 ### Libraries
  * [Archie](https://github.com/openehr/archie) - OpenEHR Library written in Java
   * [Asymmetrik FHIR API Server](https://github.com/Asymmetrik/node-fhir-server-core) - A Secure Rest implementation for the HL7 FHIR Specification
@@ -102,19 +109,5 @@
   * [Python HL7](https://github.com/johnpaulett/python-hl7) - Simple library for parsing messages of HL7 version 2.x into Python objects.
   * [Python SMART on FHIR client](https://github.com/smart-on-fhir/client-py) - Flexible Python client for FHIR servers supporting the SMART on FHIR protocol
   * [Ruby FHIR](https://github.com/fhir-crucible/fhir_client) - FHIR client implementation in Ruby.
-  * [Ruby HL7](https://github.com/segfault/ruby-hl7) - Ruby HL7 library.  
-  
-### Papers
-- Ashburner, Michael, et al. [Gene ontology: tool for the unification of biology.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3037419/)Nature genetics 25.1 (2000): 25-29.
-
-- Belleau, François, et al. [Bio2RDF: towards a mashup to build bioinformatics knowledge systems.](https://www.sciencedirect.com/science/article/pii/S1532046408000415)Journal of biomedical informatics 41.5 (2008): 706-716.
-
-- Ruttenberg, Alan, et al. [Life sciences on the Semantic Web: the Neurocommons and beyond.](https://academic.oup.com/bib/article/10/2/193/184336)Briefings in bioinformatics 10.2 (2009): 193-204.
-- Yu T, Li J, Yu Q, et al. [Knowledge graph for TCM health preservation: design, construction, and applications[J].](https://www.sciencedirect.com/science/article/pii/S0933365717301355)Artificial intelligence in medicine, 2017, 77: 48-52.
-- Shi L, Li S, Yang X, et al. [Semantic health knowledge graph: Semantic integration of heterogeneous medical knowledge and services[J].](http://downloads.hindawi.com/journals/bmri/2017/2858423.pdf)BioMed research international, 2017, 2017.
-- Rotmensch M, Halpern Y, Tlimat A, et al. [Learning a health knowledge graph from electronic medical records[J].](https://www.nature.com/articles/s41598-017-05778-z)Scientific reports, 2017, 7(1): 1-11.
-- Huang, Da Wei, Brad T. Sherman, and Richard A. Lempicki. [Bioinformatics enrichment tools: paths toward the comprehensive functional analysis of large gene lists.](https://academic.oup.com/nar/article/37/1/1/1026684)Nucleic acids research 37.1 (2009): 1-13.
-- Piñero, Janet, et al. [DisGeNET: a discovery platform for the dynamical exploration of human diseases and their genes.](https://academic.oup.com/database/article/doi/10.1093/database/bav028/2433160)Database 2015 (2015).
-
-
+  * [Ruby HL7](https://github.com/segfault/ruby-hl7) - Ruby HL7 library.
 
