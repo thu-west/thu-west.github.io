@@ -1,6 +1,7 @@
-# HedmaPortal  
+  
 
 ## What's New
+- [新型冠状病毒感染的肺炎诊疗方案知识图谱](https://github.com/thu-west/Covid19Kg)
 - [Health Knowledge Graph for Novel Coronavirus Pneumonia (Covid-19)](http://www.edukg.cn/fy)
 - [New Crown Health Knowledge Graph](http://openkg.cn/dataset/covid-19-health)
 
@@ -13,7 +14,7 @@
   - [Health Data Analysis](#health-data-analysis)
 - [Applications](#applications)
 - [Data and Knowledge Bases](#data-and-knowledge-bases)
-  - [Data Sets](#data-sets)
+  - [Datasets](#datasets)
   - [Knowledge Bases](#knowledge-bases)
 
 ### Researchers
@@ -99,7 +100,7 @@
   * [VistA](https://www.osehra.org/content/osehra-vista) - Health Information Technology System.
 
 ### Data and Knowledge Bases
-#### Data Sets
+#### Datasets
 
 - [EchoNet-Dynamic](https://echonet.github.io/dynamic/index.html) - A Large New Cardiac Motion Video Data Resource
 - [The National Library of Medicine presents MedPix®](https://medpix.nlm.nih.gov/home) - Database of 53,000 medical images from 13,000 patients with annotations.
