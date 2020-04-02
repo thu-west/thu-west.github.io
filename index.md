@@ -7,8 +7,12 @@
 ## Contents  
 - [Researchers](#researchers)
 - [Toolkit](#toolkit)  
+  - [Health Data Management](#health-data-management)  
+  - [Health Data Analysis](#health-data-analysis)
 - [Applications](#applications)
 - [Data and Knowledge Bases](#data-and-knowledge-bases)
+  - [Data Sets](#data-sets)
+  - [Knowledge Bases](#knowledge-bases)
 
 ### Researchers
   - [WHO](https://www.who.int)
