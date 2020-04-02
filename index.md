@@ -11,27 +11,6 @@
 - [Data and Knowledge Bases](#data-and-knowledge-bases)
 
 ### Researchers
-#### Scholars
-- AI For HealthCare
-  - [Jimeng Sun](https://scholar.google.com/citations?user=9jmmp5sAAAAJ&hl=en)
-  - [A. Aldo Faisal](https://scholar.google.com/citations?hl=en&user=WjHjbrwAAAAJ)
-  - [Pranav Rajpurkar](https://scholar.google.com/citations?hl=en&user=QcOG6sgAAAAJ)
-  - [Dr Punam Bedi](https://scholar.google.com/citations?hl=en&user=isHD16wAAAAJ)
-  - [Huijuan Yang](https://scholar.google.com/citations?hl=en&user=97k5KAYAAAAJ)
-  - [Ying Ding](https://scholar.google.com/citations?hl=en&user=97k5KAYAAAAJ)
-
-- Health Informatics
-  - [T. Bedirhan Ustun](https://scholar.google.com/citations?hl=en&user=Ta0zCAIAAAAJ)
-  - [Azeem Majeed](https://scholar.google.com/citations?hl=en&user=ST8BfTgAAAAJ)
-  - [Deborah L. McGuinness](https://scholar.google.com/citations?hl=en&user=PLJ0L4QAAAAJ)
-  - [William Dalton](https://scholar.google.com/citations?hl=en&user=zoouc7QAAAAJ)
-  
-- Health Systems
-  - [Christopher Murray](https://scholar.google.com/citations?hl=en&user=iTsZVuoAAAAJ)
-  - [Khurram Nasir](https://scholar.google.com/citations?hl=en&user=G7VThNoAAAAJ)
-  - [Herbert Duber](https://scholar.google.com/citations?hl=en&user=h4bIhD4AAAAJ)  
-  
-#### Organizations
   - [WHO](https://www.who.int)
   - [Ontotext](https://www.ontotext.com/)
   - [NLM](https://www.nlm.nih.gov/about/org.html)
@@ -71,13 +50,15 @@
   * [Python SMART on FHIR client](https://github.com/smart-on-fhir/client-py) - Flexible Python client for FHIR servers supporting the SMART on FHIR protocol
   * [Ruby FHIR](https://github.com/fhir-crucible/fhir_client) - FHIR client implementation in Ruby.
   * [Ruby HL7](https://github.com/segfault/ruby-hl7) - Ruby HL7 library.
-  * [OpenNRE](https://github.com/thunlp/OpenNRE)
-  * [Sift - Knowledge extraction from web data](https://github.com/wikilinks/sift)
-  * [Open-entity-relation-extraction](https://github.com/lemonhu/open-entity-relation-extraction)
-  * [Standford CoreNLP](https://stanfordnlp.github.io/CoreNLP/)
-  * [NLTK](https://www.nltk.org/)
-  * [OpenCGG](https://github.com/OpenCCG/openccg)
-  * [IEPY](https://github.com/machinalis/iepy)  
+  * [OpenNRE](https://github.com/thunlp/OpenNRE) - An open-source and extensible toolkit to implement relation extraction models.
+  * [Sift - Knowledge extraction from web data](https://github.com/wikilinks/sift) - sift is a toolkit for extracting models of entities and text from a corpus of linked documents.
+  * [Open-entity-relation-extraction](https://github.com/lemonhu/open-entity-relation-extraction) - Knowledge triples extraction (entities and relations extraction) and knowledge base construction
+  * [Standford CoreNLP](https://stanfordnlp.github.io/CoreNLP/) - A set of human language technology tools. I
+  * [NLTK](https://www.nltk.org/) - A leading platform for building Python programs to work with human language data.
+  * [OpenCGG](https://github.com/OpenCCG/openccg) - A system for parsing and generating text
+  * [IEPY](https://github.com/machinalis/iepy)  - IEPY is an open source tool for Information Extraction focused on Relation Extraction.
+
+
   
 ### Applications
  * [Bahmni](http://www.bahmni.org/) - Hospital system.
