@@ -89,22 +89,22 @@
 ### Data and Knowledge Bases
 #### Data Sets
 
-- **[EchoNet-Dynamic](https://echonet.github.io/dynamic/index.html)** - A Large New Cardiac Motion Video Data Resource
-- **[The National Library of Medicine presents MedPix®](https://medpix.nlm.nih.gov/home)** - Database of 53,000 medical images from 13,000 patients with annotations.
-- **[CT Colongraphy for Colon Cancer](https://wiki.cancerimagingarchive.net/display/Public/CT+COLONOGRAPHY#dc149b9170f54aa29e88f1119e25ba3e)** - CT scan for diagnosing of colon cancer.
-- **[Digital Retinal Images for Vessel Extraction ]( http://www.isi.uu.nl/Research/Databases/DRIVE/download.php)** - The DRIVE database is for comparative studies on segmentation of blood vessels in retinal images.
-- **[Isic Archive - Melanoma]( https://www.isic-archive.com)** - This archive contains 23k images of classified skin lesions. It contains both malignant and benign examples.
-- **[TCIA Collections]( http://www.cancerimagingarchive.net/)** - Cancer imaging data sets across various cancer types  
-- **[EtherCIS](http://ethercis.org)** - Enterprise Clinical Data Repository
+- [EchoNet-Dynamic](https://echonet.github.io/dynamic/index.html) - A Large New Cardiac Motion Video Data Resource
+- [The National Library of Medicine presents MedPix®](https://medpix.nlm.nih.gov/home) - Database of 53,000 medical images from 13,000 patients with annotations.
+- [CT Colongraphy for Colon Cancer](https://wiki.cancerimagingarchive.net/display/Public/CT+COLONOGRAPHY#dc149b9170f54aa29e88f1119e25ba3e) - CT scan for diagnosing of colon cancer.
+- [Digital Retinal Images for Vessel Extraction ]( http://www.isi.uu.nl/Research/Databases/DRIVE/download.php) - The DRIVE database is for comparative studies on segmentation of blood vessels in retinal images.
+- [Isic Archive - Melanoma]( https://www.isic-archive.com) - This archive contains 23k images of classified skin lesions. It contains both malignant and benign examples.
+- [TCIA Collections]( http://www.cancerimagingarchive.net/) - Cancer imaging data sets across various cancer types  
+- [EtherCIS](http://ethercis.org) - Enterprise Clinical Data Repository
 
 #### Knowledge Bases
-- **[Linked Life Data](https://www.ontotext.com/knowledgehub/demoservices/linked-life-data/)** - Linked Life Data is a data-as-a-service platform that provides access to 25 public biomedical databases through a single access point.
-- **[Unified Medical Language System (UMLS)](https://www.nlm.nih.gov/research/umls/index.html)** - A set of files and software that brings together many health and biomedical vocabularies and standards
-- **[Gene Ontology](http://geneontology.org/)** - The Gene Ontology (GO) knowledgebase is the world’s largest source of information on the functions of genes. 
-- **[Health information technology (Health IT)](https://www.healthit.gov/)** - Health IT includes the use of electronic health records (EHRs) instead of paper medical records.
-- **[National Center for Biotechnology Information(NCBI)](https://www.ncbi.nlm.nih.gov/)** - NCBI creates a variety of educational products including courses, workshops, webinars, training materials and documentation.
-- **[Knowledge Graph for Traditional Chinese Medicine](http://www.tcmkb.cn/kg/)**  
-- **[Knowledge Graph of Breast Cancer (KGBC)](http://wasp.cs.vu.nl/BreastCancerKG/)**  
-- **[Knowledge graph of New Coronavirus](http://openkg.cn/group/coronavirus)**  
-- **[QA System on Medical Knowledge Graph](https://github.com/liuhuanyong/QASystemOnMedicalKG)**  
+- [Linked Life Data](https://www.ontotext.com/knowledgehub/demoservices/linked-life-data/) - Linked Life Data is a data-as-a-service platform that provides access to 25 public biomedical databases through a single access point.
+- [Unified Medical Language System (UMLS)](https://www.nlm.nih.gov/research/umls/index.html) - A set of files and software that brings together many health and biomedical vocabularies and standards
+- [Gene Ontology](http://geneontology.org/) - The Gene Ontology (GO) knowledgebase is the world’s largest source of information on the functions of genes. 
+- [Health information technology (Health IT)](https://www.healthit.gov/) - Health IT includes the use of electronic health records (EHRs) instead of paper medical records.
+- [National Center for Biotechnology Information(NCBI)](https://www.ncbi.nlm.nih.gov/) - NCBI creates a variety of educational products including courses, workshops, webinars, training materials and documentation.
+- [Knowledge Graph for Traditional Chinese Medicine](http://www.tcmkb.cn/kg/)
+- [Knowledge Graph of Breast Cancer (KGBC)](http://wasp.cs.vu.nl/BreastCancerKG/)
+- [Knowledge graph of New Coronavirus](http://openkg.cn/group/coronavirus)
+- [QA System on Medical Knowledge Graph](https://github.com/liuhuanyong/QASystemOnMedicalKG) 
 
