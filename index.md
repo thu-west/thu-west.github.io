@@ -72,10 +72,10 @@
   * [Ruby HL7](https://github.com/segfault/ruby-hl7) - Ruby HL7 library.
   * [OpenNRE](https://github.com/thunlp/OpenNRE) - An open-source and extensible toolkit to implement relation extraction models.
   * [Sift - Knowledge extraction from web data](https://github.com/wikilinks/sift) - sift is a toolkit for extracting models of entities and text from a corpus of linked documents.
-  * [Open-entity-relation-extraction](https://github.com/lemonhu/open-entity-relation-extraction) - Knowledge triples extraction (entities and relations extraction) and knowledge base construction
-  * [Standford CoreNLP](https://stanfordnlp.github.io/CoreNLP/) - A set of human language technology tools. I
+  * [Open-entity-relation-extraction](https://github.com/lemonhu/open-entity-relation-extraction) - Knowledge triples extraction (entities and relations extraction) and knowledge base construction.
+  * [Standford CoreNLP](https://stanfordnlp.github.io/CoreNLP/) - A set of human language technology tools. 
   * [NLTK](https://www.nltk.org/) - A leading platform for building Python programs to work with human language data.
-  * [OpenCGG](https://github.com/OpenCCG/openccg) - A system for parsing and generating text
+  * [OpenCGG](https://github.com/OpenCCG/openccg) - A system for parsing and generating text.
   * [IEPY](https://github.com/machinalis/iepy)  - IEPY is an open source tool for Information Extraction focused on Relation Extraction.
 
 
@@ -101,6 +101,8 @@
   * [OSCAR EMR](https://bitbucket.org/oscaremr/oscar) - OSCAR McMaster Project
   * [Ripple](http://rippleosi.org/) -  NHS funded community led initiative towards an integrated Digital Care Record Platform.
   * [VistA](https://www.osehra.org/content/osehra-vista) - Health Information Technology System.
+  - [QA System on Medical Knowledge Graph](https://github.com/liuhuanyong/QASystemOnMedicalKG)  -  A tutorial and implement of disease centered Medical knowledge graph and qa system based on it.
+
 
 ### Data and Knowledge Bases
 #### Datasets
@@ -122,5 +124,4 @@
 - [Knowledge Graph for Traditional Chinese Medicine](http://www.tcmkb.cn/kg/)
 - [Knowledge Graph of Breast Cancer (KGBC)](http://wasp.cs.vu.nl/BreastCancerKG/)
 - [Knowledge graph of New Coronavirus](http://openkg.cn/group/coronavirus)
-- [QA System on Medical Knowledge Graph](https://github.com/liuhuanyong/QASystemOnMedicalKG) 
 
