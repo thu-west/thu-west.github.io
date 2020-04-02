@@ -10,7 +10,7 @@
 - [Researchers](#researchers)
   - [Organizations](#organizations)
   - [Conferences](#conferences)
-- [Toolkit](#toolkit)  
+- [Toolkits](#toolkits)  
   - [Health Data Management](#health-data-management)  
   - [Health Data Analysis](#health-data-analysis)
 - [Applications](#applications)
@@ -27,7 +27,8 @@
   - [Dicom](https://dicom.offis.de/index.php.en)
   - [NIH](https://www.nih.gov/)
   - [Mayoclinic](https://www.mayoclinic.org/)
-  - [MD Anderson Cancer Center](https://www.mdanderson.org/)
+  - [MD Anderson Cancer Center](https://www.mdanderson.org/)  
+  
 #### Conferences
   - [BIBM](https://ieeebibm.org/BIBM2020/)
   - [MICCAI](http://www.miccai.org/)
@@ -36,15 +37,17 @@
   - [IEEE TMI](https://www.embs.org/tmi/)
   - [ACC](https://www.acc.org/search#sort=relevancy)
   - [AHA](https://www.heart.org/)
-  - [ESC](https://www.escardio.org/)
+  - [ESC](https://www.escardio.org/)  
+  
 
-### Toolkit  
+### Toolkits  
 #### Health Data Management  
   * [Open cancer](http://opencancer.net/) - Cancer data management.
   * [OpenEMR](http://www.open-emr.org/) - Electronic Health Records and Medical Practice Management application.
   * [MedinTux](https://medintux.org/) - French Medical Practice Management System.
   * [ERPNext](https://erpnext.com/healthcare) - ERPNext Healthcare modules helps you manage patients, appointments, consultations and lab tests along with billing
-  * [GNU Health](http://health.gnu.org/) - Electronic Medical Record, Hospital Management, and Health Information System.
+  * [GNU Health](http://health.gnu.org/) - Electronic Medical Record, Hospital Management, and Health Information System.  
+  
 
 #### Health Data Analysis
  * [Archie](https://github.com/openehr/archie) - OpenEHR Library written in Java
