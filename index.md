@@ -8,7 +8,7 @@
 ## Contents  
 - [Researchers](#researchers)
   - [Organizations](#organizations)
-  - [Conferences](#conferences)
+  - [Conferences and Journals](#conferences-and-journals)
 - [Toolkits](#toolkits)  
   - [Health Data Management](#health-data-management)  
   - [Health Data Analysis](#health-data-analysis)
@@ -19,37 +19,40 @@
 
 ### Researchers
 #### Organizations
-  - [WHO](https://www.who.int)
+  - [World Health Organization(WHO)](https://www.who.int)
   - [Ontotext](https://www.ontotext.com/)
-  - [NLM](https://www.nlm.nih.gov/about/org.html)
+  - [National Library of Medicine(NLM)](https://www.nlm.nih.gov/about/org.html)
   - [OpenEHR](https://www.openehr.org/)
-  - [Dicom](https://dicom.offis.de/index.php.en)
-  - [NIH](https://www.nih.gov/)
+  - [Digital Imaging and Communications in Medicine(Dicom)](https://dicom.offis.de/index.php.en)
+  - [National Institutes of Health(NIH)](https://www.nih.gov/)
   - [Mayoclinic](https://www.mayoclinic.org/)
   - [MD Anderson Cancer Center](https://www.mdanderson.org/)  
   
-#### Conferences
-  - [IEEE BIBM](https://ieeebibm.org/BIBM2020/)
-  - [MICCAI](http://www.miccai.org/)
-  - [IPMI](http://ipmi2021.org/)
-  - [ISBI](http://2020.biomedicalimaging.org/)
-  - [IEEE TMI](https://www.embs.org/tmi/)
-  - [ACC](https://www.acc.org/search#sort=relevancy)
-  - [AHA](https://www.heart.org/)
-  - [ESC](https://www.escardio.org/)  
-  
-
+#### Conferences and Journals
+  - [American College of Cardiology(ACC)](https://www.acc.org/search#sort=relevancy)
+  - [American Heart Association(AHA)](https://www.heart.org/)
+  - [Bioinformatics and Biomedicine(IEEE BIBM)](https://ieeebibm.org/BIBM2020/)
+  - [European Society of Cardiology(ESC)](https://www.escardio.org/)
+  - [Journal of Biomedical Informatics(JBI)](https://www.journals.elsevier.com/journal-of-biomedical-informatics)
+  - [Health Information Science(HIS)](http://his-conferences.org/)
+  - [Intelligent Platform Management Interface(IPMI)](http://ipmi2021.org/)
+  - [International Symposium on Biomedical Imaging (ISBI)](http://2020.biomedicalimaging.org/)
+  - [TRANSACTIONS ON MEDICAL IMAGING(IEEE TMI)](https://www.embs.org/tmi/)
+  - [Medical Image Computing and Computer Assisted Intervention(MICCAI)](http://www.miccai.org/)
+  - [Nature](https://www.nature.com/)
+  - [Science](https://www.sciencemag.org/)
 ### Toolkits  
 #### Health Data Management  
-  * [Open cancer](http://opencancer.net/) - Cancer data management.
-  * [OpenEMR](http://www.open-emr.org/) - Electronic Health Records and Medical Practice Management application.
-  * [MedinTux](https://medintux.org/) - French Medical Practice Management System.
   * [ERPNext](https://erpnext.com/healthcare) - ERPNext Healthcare modules helps you manage patients, appointments, consultations and lab tests along with billing
   * [GNU Health](http://health.gnu.org/) - Electronic Medical Record, Hospital Management, and Health Information System.  
+  * [MedinTux](https://medintux.org/) - French Medical Practice Management System.
+  * [Open cancer](http://opencancer.net/) - Cancer data management.
+  * [OpenEMR](http://www.open-emr.org/) - Electronic Health Records and Medical Practice Management application.
+  
   
 
 #### Health Data Analysis
- * [Archie](https://github.com/openehr/archie) - OpenEHR Library written in Java
+  * [Archie](https://github.com/openehr/archie) - OpenEHR Library written in Java
   * [Asymmetrik FHIR API Server](https://github.com/Asymmetrik/node-fhir-server-core) - A Secure Rest implementation for the HL7 FHIR Specification
   * [DCMTK](https://dicom.offis.de/dcmtk.php.en) - DICOM Toolkit
   * [dicom](https://github.com/suyashkumar/dicom) - High Performance DICOM Medical Image Parser in Go
@@ -81,13 +84,15 @@
 
   
 ### Applications
- * [Bahmni](http://www.bahmni.org/) - Hospital system.
+  * [Bahmni](http://www.bahmni.org/) - Hospital system.
   * [Cottage Med](http://www.cottagemed.org/cottage-med) - Electronic Medical Record software designed by physicians.
   * [EHRServer](https://github.com/ppazos/cabolabs-ehrserver) - CaboLabs EHRServer
   * [GNUmed](http://wiki.gnumed.de/bin/view/Gnumed) - Electronic Medical Record software.
   * [EHRServer](https://github.com/ppazos/cabolabs-ehrserver) - Generic, minimal, standards-based, service-oriented, openEHR clinical data storage.
   * [FreeHealth EHR](https://freehealth.io) - Electronic Health Record software.
   * [FreeMedForms EMR](https://freemedforms.com) - Electronic Medical Record software.
+  - [Health QA](https://github.com/thu-west/HealthQA) - A QA system framework for special desease.
+  
   * [HospitalRun](http://hospitalrun.io/) - HospitalRun is built to provide the most modern Hospital Information System possible to the least resourced environments.
   * [Hospital OS](http://www.hospital-os.com) - Thai Hospital Information System.
   * [HOSxP](http://hosxp.net/joomla25/) - Thai Hospital Information System that aims to ease the healthcare workflow of health centers and central hospitals.
@@ -99,27 +104,29 @@
   * [openMAXIMS](https://github.com/IMS-MAXIMS/openMAXIMS) - Full Patient Administration System designed for the NHS.
   * [OpenMRS](http://openmrs.org/) - Enterprise Electronic Medical Record System platform.
   * [OSCAR EMR](https://bitbucket.org/oscaremr/oscar) - OSCAR McMaster Project
-  * [Ripple](http://rippleosi.org/) -  NHS funded community led initiative towards an integrated Digital Care Record Platform.
-  * [VistA](https://www.osehra.org/content/osehra-vista) - Health Information Technology System.
   - [QA System on Medical Knowledge Graph](https://github.com/liuhuanyong/QASystemOnMedicalKG)  -  A tutorial and implement of disease centered Medical knowledge graph and qa system based on it.
 
+  * [Ripple](http://rippleosi.org/) -  NHS funded community led initiative towards an integrated Digital Care Record Platform.
+  * [VistA](https://www.osehra.org/content/osehra-vista) - Health Information Technology System.
+ 
 
 ### Data and Knowledge Bases
 #### Datasets
-
 - [EchoNet-Dynamic](https://echonet.github.io/dynamic/index.html) - A Large New Cardiac Motion Video Data Resource
 - [The National Library of Medicine presents MedPix®](https://medpix.nlm.nih.gov/home) - Database of 53,000 medical images from 13,000 patients with annotations.
 - [CT Colongraphy for Colon Cancer](https://wiki.cancerimagingarchive.net/display/Public/CT+COLONOGRAPHY#dc149b9170f54aa29e88f1119e25ba3e) - CT scan for diagnosing of colon cancer.
 - [Digital Retinal Images for Vessel Extraction ]( http://www.isi.uu.nl/Research/Databases/DRIVE/download.php) - The DRIVE database is for comparative studies on segmentation of blood vessels in retinal images.
-- [Isic Archive - Melanoma]( https://www.isic-archive.com) - This archive contains 23k images of classified skin lesions. It contains both malignant and benign examples.
-- [TCIA Collections]( http://www.cancerimagingarchive.net/) - Cancer imaging data sets across various cancer types  
 - [EtherCIS](http://ethercis.org) - Enterprise Clinical Data Repository
 
+- [Isic Archive - Melanoma]( https://www.isic-archive.com) - This archive contains 23k images of classified skin lesions. It contains both malignant and benign examples.
+- [TCIA Collections]( http://www.cancerimagingarchive.net/) - Cancer imaging data sets across various cancer types  
+- [MIMIC-III](https://mimic.physionet.org/) - A freely accessible critical care database.
+
 #### Knowledge Bases
-- [Linked Life Data](https://www.ontotext.com/knowledgehub/demoservices/linked-life-data/) - Linked Life Data is a data-as-a-service platform that provides access to 25 public biomedical databases through a single access point.
-- [Unified Medical Language System (UMLS)](https://www.nlm.nih.gov/research/umls/index.html) - A set of files and software that brings together many health and biomedical vocabularies and standards
 - [Gene Ontology](http://geneontology.org/) - The Gene Ontology (GO) knowledgebase is the world’s largest source of information on the functions of genes. 
 - [Health information technology (Health IT)](https://www.healthit.gov/) - Health IT includes the use of electronic health records (EHRs) instead of paper medical records.
+- [Linked Life Data](https://www.ontotext.com/knowledgehub/demoservices/linked-life-data/) - Linked Life Data is a data-as-a-service platform that provides access to 25 public biomedical databases through a single access point.
+- [Unified Medical Language System (UMLS)](https://www.nlm.nih.gov/research/umls/index.html) - A set of files and software that brings together many health and biomedical vocabularies and standards
 - [National Center for Biotechnology Information(NCBI)](https://www.ncbi.nlm.nih.gov/) - NCBI creates a variety of educational products including courses, workshops, webinars, training materials and documentation.
 - [Knowledge Graph for Traditional Chinese Medicine](http://www.tcmkb.cn/kg/)
 - [Knowledge Graph of Breast Cancer (KGBC)](http://wasp.cs.vu.nl/BreastCancerKG/)
