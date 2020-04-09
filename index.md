@@ -37,7 +37,7 @@
   - [Health Information Science(HIS)](http://his-conferences.org/)
   - [International Council for Standardization in Haematology(ICSH)](https://icsh.org)
   - [Intelligent Platform Management Interface(IPMI)](http://ipmi2021.org/)
-  - [International Symposium on Biomedical Imaging (ISBI)](http://2020.biomedicalimaging.org/)
+  - [International Symposium on Biomedical Imaging(ISBI)](http://2020.biomedicalimaging.org/)
   - [TRANSACTIONS ON MEDICAL IMAGING(IEEE TMI)](https://www.embs.org/tmi/)
   - [Medical Image Computing and Computer Assisted Intervention(MICCAI)](http://www.miccai.org/)
   - [Nature](https://www.nature.com/)
@@ -127,11 +127,11 @@
 
 #### Knowledge Bases
 - [Gene Ontology](http://geneontology.org/) - The Gene Ontology (GO) knowledgebase is the world’s largest source of information on the functions of genes. 
-- [Health information technology (Health IT)](https://www.healthit.gov/) - Health IT includes the use of electronic health records (EHRs) instead of paper medical records.
+- [Health information technology(Health IT)](https://www.healthit.gov/) - Health IT includes the use of electronic health records (EHRs) instead of paper medical records.
 - [Linked Life Data](https://www.ontotext.com/knowledgehub/demoservices/linked-life-data/) - Linked Life Data is a data-as-a-service platform that provides access to 25 public biomedical databases through a single access point.
-- [Unified Medical Language System (UMLS)](https://www.nlm.nih.gov/research/umls/index.html) - A set of files and software that brings together many health and biomedical vocabularies and standards
+- [Unified Medical Language System(UMLS)](https://www.nlm.nih.gov/research/umls/index.html) - A set of files and software that brings together many health and biomedical vocabularies and standards
 - [National Center for Biotechnology Information(NCBI)](https://www.ncbi.nlm.nih.gov/) - NCBI creates a variety of educational products including courses, workshops, webinars, training materials and documentation.
 - [Knowledge Graph for Traditional Chinese Medicine](http://www.tcmkb.cn/kg/)
-- [Knowledge Graph of Breast Cancer (KGBC)](http://wasp.cs.vu.nl/BreastCancerKG/)
+- [Knowledge Graph of Breast Cancer(KGBC)](http://wasp.cs.vu.nl/BreastCancerKG/)
 - [Knowledge graph of New Coronavirus](http://openkg.cn/group/coronavirus)
 
