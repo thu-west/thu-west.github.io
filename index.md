@@ -38,7 +38,7 @@
   - [International Council for Standardization in Haematology(ICSH)](https://icsh.org)
   - [Intelligent Platform Management Interface(IPMI)](http://ipmi2021.org/)
   - [International Symposium on Biomedical Imaging(ISBI)](http://2020.biomedicalimaging.org/)
-  - [TRANSACTIONS ON MEDICAL IMAGING(IEEE TMI)](https://www.embs.org/tmi/)
+  - [Transactions on Medical Imaging(IEEE TMI)](https://www.embs.org/tmi/)
   - [Medical Image Computing and Computer Assisted Intervention(MICCAI)](http://www.miccai.org/)
   - [Nature](https://www.nature.com/)
   - [Science](https://www.sciencemag.org/)  
